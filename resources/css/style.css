@@ -1,0 +1,47 @@
+html {
+  background-color: black;
+
+}
+
+h1{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-weight: normal;
+  text-align: center;
+}
+
+h1,h2,h3 {
+  font-family: Verdana;
+}
+
+h2{
+  font-size: 42px;
+  text-align: center;
+  font-weight: 300;
+  color: white;
+}
+
+h3 {
+  color: gray;
+  text-align: center;
+  font-size: 21px;
+}
+
+nav, a  {
+
+  color: aquamarine;
+  font-family: Verdana;
+  font-size: 16px;
+  text-align: center;
+
+}
+
+p {
+  text-align: center;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
+}
